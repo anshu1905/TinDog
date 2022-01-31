@@ -6,7 +6,7 @@ https://anshu1905.github.io/TinDog/
 
 <br>
 
-<p>
+<p align="center">
   <img src="tindog.png">
 </p>
   
